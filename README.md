@@ -13,14 +13,14 @@ VPNs get all the fanfare, but proxies are also pretty important too...
 ### Free
 
 Name | URL | Notes
------------- | -------------
+------------ | ------------- | ---
 Content from cell 1 | Content from cell 2 |
-Content in the first column | Content in the second column
+Content in the first column | Content in the second column |
 
 ### Commericial
 
 Name | URL | Free tier | Notes
------------- | -------------
+------------ | ------------- | --- | --- 
 Content from cell 1 | Content from cell 2 |   |
 Content in the first column | Content in the second column |    |
 
