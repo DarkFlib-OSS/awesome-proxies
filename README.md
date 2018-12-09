@@ -37,16 +37,16 @@ VPNs get all the fanfare, but proxies are also pretty important too...
 
 Name | URL | Notes
 ------------ | ------------- | ---
-Content from cell 1 | http://www.socksproxylist24.top/2018/12/10-12-18-socks-proxy-list.html |
-Content in the first column | http://www.gatherproxy.com/sockslist |
-| http://spys.one/en/socks-proxy-list/ |
+Socks Proxy List 24 | http://www.socksproxylist24.top/2018/12/10-12-18-socks-proxy-list.html |
+Gather Proxy | http://www.gatherproxy.com/sockslist |
+Spys One | http://spys.one/en/socks-proxy-list/ |
 
 ### Commericial
 
 Name | URL | Free tier | Notes
 ------------ | ------------- | --- | --- 
-Content from cell 1 | https://www.socks-proxy.net/ | Y  |
-Content in the first column | https://www.proxyrack.com/access/page/choose-proxy-service |    |
+Socks Proxy | https://www.socks-proxy.net/ | Y  |
+Proxy Rack | https://www.proxyrack.com/access/page/choose-proxy-service |    |
 SocksList | https://sockslist.net/ | |
 HideMyName | https://hidemyna.me/en/proxy-list/ | |
 My-Proxy | https://www.my-proxy.com/free-socks-5-proxy.html | |
@@ -63,7 +63,7 @@ Monkey Socks | https://monkeysocks.net/ | |
 NordVPN | https://nordvpn.com/ | |
 BuyProxies 24/7 | https://buyproxies247.com/ | |
 HideIP | https://hideip.me/en/proxy/socks5list | |
-
+Prem Proxies | https://premproxy.com/list/ | |
 
 
 
