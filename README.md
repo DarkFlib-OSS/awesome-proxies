@@ -8,6 +8,8 @@ VPNs get all the fanfare, but proxies are also pretty important too...
 
 ### Proxy specific software
 
+* [TrueProxies proxy formats](https://github.com/trueproxies-com/proxy-formats) — MIT TypeScript library and stdin CLI for local proxy import formatting for twelve browsers; includes limited sanitized native-browser observations. No network calls.
+
 * [Proxychains](http://proxychains.sourceforge.net/) - Chaining proxies (original site abandoned, use the mirror instead) ([Github mirror](https://github.com/haad/proxychains) )
 * [Proxychains-ng](https://github.com/rofl0r/proxychains-ng) - Chaining proxies - nextgen 
 * OpenSSH
